@@ -1,0 +1,10 @@
+basic_c-_progame
+==========
+
+//basic c++program
+#include<iostream.h>
+#include<conio.h>
+void main()
+{
+cout<<"/n/t hello world";
+}
